@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Marcos Castañeda</h1>
-<h3 align="center">A passionate Data Engineer from México City</h3>
+<h3 align="center">A passionate Data & AI Architect from México City</h3>
 
 - 🔭 I’m currently working on **GNP Seguros**
 
