@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋,I'm Marcos Castañeda</h1>
 <h3 align="center">A passionate Data Engineer from México City</h3>
 
-- 🔭 I’m currently working on **CONSAR**
+- 🔭 I’m currently working on **GNP Seguros**
 
-- 🌱 I’m currently learning **Bootcamp of Data Engineer and Google CLOUD ☁**
+- 🌱 I’m currently learning **into Generative AI, specializing in the end-to-end construction and implementation of AI agents to optimize complex business workflows.☁**
 
 - 👨‍💻 All of my projects are available at [https://github.com/marcoscastanedac?tab=repositories](https://github.com/marcoscastanedac?tab=repositories)
 
-- 💬 Ask me about **Python | R | Java | Big Data | SQL |**
+- 💬 Ask me about **Cloud | Python | Data | Big Data | Agents|**
 
 - 📫 How to reach me **mcastanedacastanon@gmail.com**
 
